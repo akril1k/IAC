@@ -1,0 +1,4 @@
+ansible/*.env
+ansible/var/secret
+terraform/terraform.tfstate
+terraform/.terraform
